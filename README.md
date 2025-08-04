@@ -12,4 +12,4 @@ You must havethe following set in your php.ini file:
 
 ## Demo Version
 
-A working demo can be found at the following site: [Tones4All](https://t4a.vulc.in)
+A working demo can be found at the following site: [Tones4All](https://t4a.vulc.in/php)
