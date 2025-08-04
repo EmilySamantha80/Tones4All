@@ -138,7 +138,7 @@ if(isset($midi)) { /* Output MIDI File */
       <tr><td align=right><a href="index.php?samkp2=1&rtttlstring=<?=$rtttlconv?>">Convert to Samsung Keypress Type 2</a></td><td>for A300, A308, A400, A408, Q100, Q105, Q200</td></tr>
       <tr><td align=right><a href="index.php?alcatel=1&rtttlstring=<?=$rtttlconv?>">Convert to Alcatel Composer</a></td><td>for OneTouch 300, 301, 302, 303, 311, 511</td></tr>
       <tr><td align=center colspan=2><a href="t4aphp.chm"><br>Download Help File/Usage Instructions</a></td></tr>
-      <tr><td align=center colspan=2><a href="t4aphp.zip">Download Source Code</a></td></tr>
+      <tr><td align=center colspan=2><a href="https://github.com/EmilySamantha80/Tones4All">View the source on GitHub</a></td></tr>
     </table>
     </body>
   <?php
@@ -156,7 +156,8 @@ if(isset($midi)) { /* Output MIDI File */
     <b>Paste RTTTL Text Here:</b><br>
     <textarea name="rtttlstring" rows="6" cols="60">TocattaFugue:d=32,o=5,b=100:a#.,g#.,2a#,g#,f#,f,d#.,4d.,2d#,a#.,g#.,2a#,8f,8f#,8d,2d#,8d,8f,8g#,8b,8d6,4f6,4g#.,4f.,1g,32p,</textarea>
     <br><INPUT type="submit" name="submitbutton" value="Choose Conversion Method"><INPUT type="reset">
-    <br><br><a href="t4aphp.zip">Download Source Code</a>
+    <br><br><a href="https://github.com/EmilySamantha80/Tones4All">View the source on GitHub</a>
+
     </form>
     </center>
     </body>
