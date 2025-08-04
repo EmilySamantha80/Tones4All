@@ -12,4 +12,8 @@ You must havethe following set in your php.ini file:
 
 ## Demo Version
 
-A working demo can be found at the following site: [Tones4All](https://t4a.vulc.in/php)
+A working demo can be found at the [Tones4All](https://t4a.vulc.in/php) website.
+
+## Other Resources
+
+Lots of ringtones can be downloaded from [Merwin's Ringtone Search](https://ringtone.vulc.in)
